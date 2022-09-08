@@ -1,0 +1,30 @@
+
+.slide_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.content_ion{
+    
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    
+}
+.aab{
+    height: 500px
+}
+.slide_hd1{
+    font-size: 20px;
+    margin-top: 80px;
+    font-weight: bolder;
+}
+.slide_bd{
+    font-size: 15px;
+    margin-top: 10px;
+    color: rgb(167, 165, 165);
+}

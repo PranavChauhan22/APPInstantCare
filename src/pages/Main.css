@@ -1,0 +1,84 @@
+.home_logo{
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.box_white_ele{
+    height: 40px;
+
+}
+.gmh{
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.gmb{
+    font-size: 15px;
+    font-weight: bolder;
+    margin-left: 40px;
+    opacity: 0.5;
+}
+.faq{
+    color: black;
+    font-weight: bolder;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.box_white{
+    background-color: #1e1e1e;
+    opacity: 0.5;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.abt_img{
+    height: 100px;
+}
+.abt_con{
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 20px;
+background: #FFFFFF;
+box-shadow: 4px 4px 16px rgba(21, 46, 171, 0.07);
+border-radius: 24px;
+margin: 10px;
+
+}
+.abt_content
+{
+    color: black;
+    padding: 20px;
+}
+.abt_head{
+    font-weight: bolder;
+    font-size: 20px;
+    color: black;
+}
+.abt_body{
+    color: white;
+    margin-top: 10px;
+    color: black;
+    opacity: 0.7;
+}
+.mainbg{
+    background-color: white;
+}
+.article_head{
+    margin: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+.card_wrap{
+    display: flex;
+    white-space:nowrap;
+    overflow-x: scroll;
+    margin-top: -30px;
+}
+.card_wrap::-webkit-scrollbar {
+    display: none;
+  }

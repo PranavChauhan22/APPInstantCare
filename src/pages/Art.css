@@ -1,0 +1,28 @@
+.art_img{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.backicon{
+    position: absolute;
+    right: 0;
+    margin: 30px;
+    font-size: 30px;
+    color: white;
+}
+.logomain{
+    height: 50px;
+    margin: 10px;
+    position: absolute;
+}
+.art_head{
+    font-size: 30px;
+    font-weight: bolder;
+    opacity: 0.5;
+    padding: 20px;
+}
+.art_body{
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-right: 20px;
+}
